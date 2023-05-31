@@ -37,10 +37,10 @@ buttons.<br>
 experience. This could include animated transitions between sections, fade-in effects for
 elements as they come into view, or any other creative animations that suit your portfolio
 theme.<br><br>
-2
+
 Remember, the goal of this task is not just to incorporate JavaScript but to do so in a way that
 enhances the user experience and adds value to your portfolio webpage. Be creative and think
-about how interactivity can improve the overall presentation of your work.
+about how interactivity can improve the overall presentation of your work.<br>
 Consider how your webpage looks and functions across different devices and screen sizes.
 Ensure that it remains responsive and accessible, providing a consistent experience to users on
 various platforms.<br>
