@@ -13,7 +13,7 @@ Deadline : 12th June 2023 - 10.30 PM<br>
 Submission : Refer to Task 07 in Page 02<br><br>
 
 
-<a herf="https://github.com/asp2020100/COM-2303-Assignment-02">Building a portfolio webpage - Part 01<a/><br>
+<a href="https://github.com/asp2020100/COM-2303-Assignment-02">Building a portfolio webpage - Part 01<br /></a>
 
 Building a portfolio webpage - Part 02<br>
 
