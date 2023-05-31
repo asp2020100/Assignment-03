@@ -16,9 +16,9 @@ Building a portfolio webpage - Part 02<br>
 
 #Fix
 
-01.Dynamic Content.
-02.Image Slider.
-03.Form Validation.
-04.Smooth Scrolling.
-05.Event Handling.
-06.Custom Animations.
+01.Dynamic Content.<br>
+02.Image Slider.<br>
+03.Form Validation.<br>
+04.Smooth Scrolling.<br>
+05.Event Handling.<br>
+06.Custom Animations.<br>
