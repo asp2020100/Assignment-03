@@ -11,6 +11,10 @@ ICT2204/COM2303 Web Design and Technologies<br>
 Assignment 03 - Individual Assignment<br>
 Deadline : 12th June 2023 - 10.30 PM<br>
 Submission : Refer to Task 07 in Page 02<br><br>
+
+
+<a herf="https://github.com/asp2020100/COM-2303-Assignment-02">Building a portfolio webpage - Part 01<a/><br>
+
 Building a portfolio webpage - Part 02<br>
 
 
