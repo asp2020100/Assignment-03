@@ -29,4 +29,3 @@ Building a portfolio webpage - Part 02<br>
 
 # Index No. 4840
 # Reg No. ASP/2020/100
-# Domain : asp2020100.eu.org
